@@ -1,0 +1,7 @@
+requests
+reverse_geocoder
+matplotlib
+pandas
+fpdf2
+pillow
+pytest
