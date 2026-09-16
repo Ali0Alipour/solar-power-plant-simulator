@@ -1,6 +1,6 @@
 # ☀️ Solar Power Plant Simulator
 
-#### Video Demo: <URL HERE>
+
 
 #### Description:
 
